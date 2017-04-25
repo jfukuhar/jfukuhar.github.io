@@ -1,3 +1,3 @@
 
 
-[My hello-world repo]([My CIS Website on UOregon.edu](http://pages.uoregon.edu/jfukuhar/111/)
+[My hello-world repo](https://github.com/jfukuhar/hello-world)
